@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <div align="center">
   
- 🌱 I’m currently learning **Node.js**
+ 🌱 I’m currently learning **Node.js** & **Solidity** 
 
  👨‍💻 All of my projects are available at [https://heylink.me/miladraza](https://heylink.me/miladraza)
 
